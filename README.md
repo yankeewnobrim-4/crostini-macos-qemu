@@ -6,7 +6,7 @@
 
 # 🍏 macOS on Chromebook via Crostini + QEMU
 
-Emulate Mac OS X or macOS inside the Linux container (Crostini) on a Chromebook using ⚠️ This is for educational purposes only. Performance will be slow (Crostini does **not** support KVM acceleration), but older versions of OS X are usable.
+Emulate Mac OS X or macOS inside the Linux container (Crostini) on a Chromebook. ⚠️ This is for educational purposes only. Performance will be slow (Crostini does **not** support KVM acceleration), but older versions of OS X are usable.
 
 ---
 
